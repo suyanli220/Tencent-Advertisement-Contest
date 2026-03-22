@@ -1,4 +1,6 @@
 # TAAC 2026: DeepContextNet Baseline
+## Tencent Advertisement Contest 2026 modeling
+### Towards Unifying Sequence Modeling and Feature Interaction for Large-scale Recommendation
 
 ![Competition](https://img.shields.io/badge/Contest-Tencent--Advertisement--2026-blue)
 ![Python](https://img.shields.io/badge/python-3.9+-green.svg)
